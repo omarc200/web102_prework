@@ -102,3 +102,9 @@ const template = `
 `
 
 export default games;
+// password for challenge 3- 6games-container.stats-card15
+// password for challange 4- 11seafoamGAMES_JSON
+//password for challange 5- 19187800268BRAIN
+//password for challange 6 - 74FLANNELclick
+//password for challange 7 - toLocaleString<div>1IVY
+//Pasword for finish here - ZooHowCEDAR
